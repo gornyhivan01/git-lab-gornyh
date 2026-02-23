@@ -1,3 +1,15 @@
+commit d83825175a51f9c33b6757d4dbed6d190f77a4c3
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 21:11:50 2026 +0300
+
+    Добавлена запись в readme.txt
+
+commit 142bb816284d254c84321dd8376abbab820ab942
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 21:09:28 2026 +0300
+
+    Добавлен файл ГорныхИС.txt с историей коммитов
+
 commit f0088b07fbca9415414660359dcefa83b9c21eea
 Author: Gornyh <gornyhivan@gmail.com>
 Date:   Mon Feb 23 21:03:25 2026 +0300
