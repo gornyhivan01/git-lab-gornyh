@@ -1,0 +1,37 @@
+commit f0088b07fbca9415414660359dcefa83b9c21eea
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 21:03:25 2026 +0300
+
+    Добавлен test.txt в ветке TEST
+
+commit ce9cdfea2484e217fb491d8c14d8ed7f75e0b2c0
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 21:00:54 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit 04364f2bad5053684615445a196e93a0a2824851
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 20:58:27 2026 +0300
+
+    Revert "Добавлена платформа видеоконференций"
+    
+    This reverts commit 76676df7ec70ea2aaa5e9eca784e8803a2041665.
+
+commit 76676df7ec70ea2aaa5e9eca784e8803a2041665
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 20:57:01 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit dfecd9a0192f00ee0630d6ecfcd02e78bb1706f4
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 20:55:06 2026 +0300
+
+    Добавлена оценка текущего статуса
+
+commit 618f4bef04472eb63313af2b1b4b20f444b9a7b7
+Author: Gornyh <gornyhivan@gmail.com>
+Date:   Mon Feb 23 19:38:20 2026 +0300
+
+    Добавлен базовый readme Горных И.С. РИМ-150975к
